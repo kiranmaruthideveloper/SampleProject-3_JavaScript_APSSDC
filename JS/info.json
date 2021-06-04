@@ -1,0 +1,24 @@
+{
+    "personalInfo":{
+        "pic":"../mypic.jpg",
+        "name":"Kiran Maruthi",
+        "age" :"19",
+        "address":"Kaikaram,India",
+        "currentStatus" : "Studying"
+    },
+    "education":[
+        {
+            "heading":["Qualification","School","Grade","Passout"]
+        },
+        {
+         "ten":["10ht","BVB","9.6 CGPA","2017"] 
+        },
+        {
+         "inter":["Inter","Elite Jr college","7.5 CGPA","2019"]   
+        },
+        {
+         "btech":["Btech","Sri Vasavi","8.6 CGPA","2020"]   
+        }
+        
+    ]
+}
